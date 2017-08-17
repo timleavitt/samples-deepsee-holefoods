@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="Cache" version="25">
+<Document name="isc.samples.deepsee.holefoods.MODULE"><Module>
+  <Name>isc.samples.deepsee.holefoods</Name>
+  <Version>0.1.0+snapshot</Version>
+  <ExternalName>DeepSee HoleFoods Sample</ExternalName>
+  <Author>
+    <Organization>InterSystems</Organization>
+    <CopyrightDate>2017</CopyrightDate>
+  </Author>
+  <Packaging>module</Packaging>
+  <Resources>
+    <Resource Name="HoleFoods.PKG">
+      <Attribute Name="Directory">source/server/cls</Attribute>
+      <Attribute Name="FilenameExtension">cls</Attribute>
+    </Resource>
+    
+    <!-- DeepSee Folder Items -->
+    <Resource Name="Chart Demos-Area Chart.pivot.DFI" />
+    <Resource Name="Chart Demos-Bar Chart.pivot.DFI" />
+    <Resource Name="Chart Demos-Bubble Chart.pivot.DFI" />
+    <Resource Name="Chart Demos-Bullseye Chart.pivot.DFI" />
+    <Resource Name="Chart Demos-Combo Chart.pivot.DFI" />
+    <Resource Name="Chart Demos-High Low Chart.pivot.DFI" />
+    <Resource Name="Chart Demos-Line Chart.pivot.DFI" />
+    <Resource Name="Chart Demos-Pie Chart.pivot.DFI" />
+    <Resource Name="Chart Demos-Time Chart.pivot.DFI" />
+    <Resource Name="Chart Demos-Tree Map Chart.pivot.DFI" />
+    <Resource Name="Chart Demos-XY Chart.pivot.DFI" />
+    <Resource Name="Custom Drilldown Spec.dashboard.DFI" />
+    <Resource Name="Data Driven Colors.dashboard.DFI" />
+    <Resource Name="Date Filter Demo.dashboard.DFI" />
+    <Resource Name="Drill Options.dashboard.DFI" />
+    <Resource Name="HoleFoods Compound Cube.dashboard.DFI" />
+    <Resource Name="KPIs &amp; Plugins-HoleFoods Plugins.dashboard.DFI" />
+    <Resource Name="KPIs &amp; Plugins-HoleFoods.pivot.DFI" />
+    <Resource Name="KPIs &amp; Plugins-KPI with Listing.dashboard.DFI" />
+    <Resource Name="KPIs &amp; Plugins-KPI with Switchable Rows.dashboard.DFI" />
+    <Resource Name="KPIs &amp; Plugins-Sales Against Targets.dashboard.DFI" />
+    <Resource Name="Listing with OnClick Filter.dashboard.DFI" />
+    <Resource Name="Pareto Charts-Category Pareto Data.pivot.DFI" />
+    <Resource Name="Pareto Charts-Pareto Chart for Category.dashboard.DFI" />
+    <Resource Name="Pareto Charts-Pareto Chart for Product and Category.dashboard.DFI" />
+    <Resource Name="Pareto Charts-Pareto Chart for Product.dashboard.DFI" />
+    <Resource Name="Pareto Charts-Product Pareto Data.pivot.DFI" />
+    <Resource Name="Pivot Features-Pivot with User Defined Listing.pivot.DFI" />
+    <Resource Name="Pivot Variables-Commission Calculator.dashboard.DFI" />
+    <Resource Name="Pivot Variables-Commission Calculator.pivot.DFI" />
+    <Resource Name="Pivot Variables-Year Variable In HoleFoods.pivot.DFI" />
+    <Resource Name="Pivot Variables-Year Variable.dashboard.DFI" />
+    <Resource Name="Use in Dashboards-Custom Drilldown Spec.pivot.DFI" />
+    <Resource Name="Use in Dashboards-Data-Driven Colors.pivot.DFI" />
+    <Resource Name="Use in Dashboards-Drill Options.pivot.DFI" />
+    <Resource Name="Use in Dashboards-For Time Chart.pivot.DFI" />
+    <Resource Name="Use in Dashboards-HoleFoods Combined Cube.pivot.DFI" />
+    <Resource Name="Use in Dashboards-HoleFoods Map Widget.pivot.DFI" />
+    <Resource Name="Use in Dashboards-HoleFoods Sales by Product.pivot.DFI" />
+    <Resource Name="Use in Dashboards-HoleFoods Sales Listing.pivot.DFI" />
+    <Resource Name="Use in Dashboards-Linked Widgets Demo.pivot.DFI" />
+    <Resource Name="Use in Dashboards-Product Info.pivot.DFI" />
+    <Resource Name="User Defined Listing.dashboard.DFI" />
+    <Resource Name="Widget Examples-All Charts.dashboard.DFI" />
+    <Resource Name="Widget Examples-Linked Widgets.dashboard.DFI" />
+    <Resource Name="Widget Examples-Map Widget.dashboard.DFI" />
+    <Resource Name="Widget Examples-Time Chart.dashboard.DFI" />
+  </Resources>
+  <Defaults>
+  <ProcessorDefault Class="Default.Document">
+  <Condition Attribute="Extension" Value="DFI" />
+  <Attribute Name="Directory">source/server/dfi</Attribute>
+  <Attribute Name="FilenameExtension">dfi</Attribute>
+  <Attribute Name="FilenameTranslateAssociator">/</Attribute>
+  <Attribute Name="FilenameTranslateIdentifier">-</Attribute>
+  <Attribute Name="Format">UDL</Attribute>
+  </ProcessorDefault>
+  </Defaults>
+  <LifecycleClass>Module</LifecycleClass>
+</Module></Document></Export>
